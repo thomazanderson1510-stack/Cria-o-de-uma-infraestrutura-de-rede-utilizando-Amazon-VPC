@@ -258,6 +258,8 @@ Durante esse processo, os componentes da infraestrutura trabalham em conjunto:
 ### Evidência – Teste de conectividade
 
 <img width="1868" height="972" alt="image" src="https://github.com/user-attachments/assets/f9386b1e-98d7-49ef-a696-685448a20d2e" />
+<img width="1818" height="698" alt="image" src="https://github.com/user-attachments/assets/ad3485ba-dfa8-4b52-bcf3-087ea1be3408" />
+
 
 
 ## 12. Visão geral da infraestrutura criada
